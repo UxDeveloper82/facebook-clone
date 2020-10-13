@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "uxdesignstyle-a39b7": {
+      "hosting": {
+        "fb-clone": [
+          "uxdesignstyle-a39b7"
+        ]
+      }
+    }
+  }
+}
